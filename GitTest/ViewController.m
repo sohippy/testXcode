@@ -13,8 +13,7 @@
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
-    //TESTTTTT
-    // Release any cached data, images, etc that aren't in use.
+    //TESTTTTTasdasdadaads    // Release any cached data, images, etc that aren't in use.
 }
 
 #pragma mark - View lifecycle
