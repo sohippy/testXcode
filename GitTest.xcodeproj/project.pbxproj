@@ -15,7 +15,6 @@
 		A944F9DA15AADEBB00FF3344 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A944F9D915AADEBB00FF3344 /* AppDelegate.m */; };
 		A944F9DD15AADEBB00FF3344 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A944F9DC15AADEBB00FF3344 /* ViewController.m */; };
 		A944F9E015AADEBB00FF3344 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A944F9DE15AADEBB00FF3344 /* ViewController.xib */; };
-		A944F9EB15ABD9E200FF3344 /* iStrike_iPhone.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A944F9EA15ABD9E200FF3344 /* iStrike_iPhone.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,7 +31,6 @@
 		A944F9DB15AADEBB00FF3344 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		A944F9DC15AADEBB00FF3344 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		A944F9DF15AADEBB00FF3344 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
-		A944F9EA15ABD9E200FF3344 /* iStrike_iPhone.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = iStrike_iPhone.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +80,6 @@
 				A944F9D815AADEBB00FF3344 /* AppDelegate.h */,
 				A944F9D915AADEBB00FF3344 /* AppDelegate.m */,
 				A944F9DB15AADEBB00FF3344 /* ViewController.h */,
-				A944F9EA15ABD9E200FF3344 /* iStrike_iPhone.bundle */,
 				A944F9DC15AADEBB00FF3344 /* ViewController.m */,
 				A944F9DE15AADEBB00FF3344 /* ViewController.xib */,
 				A944F9D015AADEBB00FF3344 /* Supporting Files */,
@@ -153,7 +150,6 @@
 			files = (
 				A944F9D415AADEBB00FF3344 /* InfoPlist.strings in Resources */,
 				A944F9E015AADEBB00FF3344 /* ViewController.xib in Resources */,
-				A944F9EB15ABD9E200FF3344 /* iStrike_iPhone.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +272,7 @@
 				A944F9E515AADEBB00FF3344 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
