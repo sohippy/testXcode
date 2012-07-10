@@ -29,7 +29,7 @@
     self.viewController = [[[ViewController alloc] initWithNibName:@"ViewController" bundle:nil] autorelease];
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
-    NSLog(@"asdadasda123123123");
+    NSLog(@"Kiwami");
     return YES;
 }
 
